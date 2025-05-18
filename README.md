@@ -96,19 +96,11 @@ Minha jornada na tecnologia é guiada por curiosidade, criatividade e compromiss
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas
 
 <p align="center" style="margin-top:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="170" />
 </p>
 
----
 
-## 🎨 Interesses Adicionais
-
-Além do desenvolvimento, tenho um forte interesse em arte e criatividade, incluindo:
-
-- Desenho e design visual  
-- Explorar música como fonte de inspiração  
-- Incorporar estética em projetos digitais
