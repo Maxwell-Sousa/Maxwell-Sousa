@@ -20,21 +20,22 @@
 </p>
 
 
-<h2 align="center">✨ Olá! Eu sou o <strong>Maxwell Maciel</strong> 👋</h2>
+<h1 align="center">Maxwell Maciel</h1>
 
 <p align="center">
-  <em>🎓 Estudante de Tecnologia da Informação &nbsp;|&nbsp; 💻 Aspirante a Full-Stack &nbsp;|&nbsp; 🎨 Tecnólogo Criativo</em>
+  <em>Estudante de Tecnologia da Informação · Futuro Desenvolvedor Full-Stack · Entusiasta de Soluções Criativas</em>
 </p>
 
 <p align="center">
   <a href="mailto:sousamaciel@aluno.ifce.edu.br">
-    <img src="https://img.shields.io/badge/Email-sousamaciel@aluno.ifce.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/E--mail-sousamaciel@aluno.ifce.edu.br-darkred?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://instagram.com/maxsksr" target="_blank">
-    <img src="https://img.shields.io/badge/@maxsksr-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/Instagram-@maxsksr-505050?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Maranguape,%20CE-007ACC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização Badge">
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Maranguape,%20CE-0A66C2?style=flat&logo=google-maps&logoColor=white" alt="Localização">
 </p>
+
 
 
 
