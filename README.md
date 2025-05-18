@@ -30,7 +30,6 @@
   <a href="mailto:sousamaciel@aluno.ifce.edu.br" title="Enviar email" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-505050?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/maxsksr" target="_blank" title="Instagram" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-505050?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
