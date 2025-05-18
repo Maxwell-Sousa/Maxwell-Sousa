@@ -69,46 +69,6 @@ Sou um entusiasta da tecnologia, atualmente cursando **Tecnologia da Informaçã
 • Git & GitHub — Controle de Versão e Colaboração
 ```
 
----
-
-## 💼 Experiência de Trabalho
-
-### [<img align="left" height="94px" width="94px" alt="SpaceX" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Engenheiro de Software**&#x20;
-[**SpaceX**](https://www.spacex.com/) • Tempo integral&#x20;
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`&#x20;
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_%28planeta%29)
-
----
-
-### [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-**Desenvolvedor Front-end (Jr)**&#x20;
-[**Rocketseat**](https://rocketseat.com.br/) • Contrato&#x20;
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`&#x20;
-Projetos em destaque: [Ignite](https://rocketseat.com.br/ignite), [Bootcamp](https://rocketseat.com.br/bootcamp)
-
----
-
-### [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
-
-**Engenheiro de Software**&#x20;
-[**Nubank**](https://nubank.com.br/) • Contrato&#x20;
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift`&#x20;
-Projetos em destaque: [Aplicativo Nubank](https://nubank.com.br/)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 ## 🎨 Além do Código
 
 Fora do desenvolvimento, sou apaixonado por arte e criatividade:
@@ -123,14 +83,4 @@ Fora do desenvolvimento, sou apaixonado por arte e criatividade:
   <i>"A melhor maneira de prever o futuro é criá-lo." – Alan Kay</i>
 </p>
 
----
 
-## 📫 Contato
-
-* 📧 Email: [sousamaciel@aluno.ifce.edu.br](mailto:sousamaciel@aluno.ifce.edu.br)
-* 📸 Instagram: [@maxsksr](https://instagram.com/maxsksr)
-* 📍 Localização: Maranguape, CE
-
----
-
-Espero que essa versão aprimorada do seu README atenda às suas expectativas e destaque suas habilidades e experiências de forma mais profissional. Se precisar de mais ajustes ou tiver outras dúvidas, estou à disposição!
