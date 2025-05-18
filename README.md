@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="./README-pt.md" title="Português">🇧🇷</a>
   <a href="./README-es.md" title="Español">🇪🇸</a>
   <a href="./README-fr.md" title="Français">🇫🇷</a>
