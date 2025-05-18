@@ -37,18 +37,13 @@
 
 ---
 
-<div align="center">
-
 ## About Me
-
 I am a dedicated technology enthusiast currently pursuing a degree in **Information Technology** at the **Instituto Federal do Ceará (IFCE)** — Maranguape campus.  
 My journey in technology is guided by curiosity, creativity, and a commitment to building meaningful digital solutions.
-
 - Currently focused on enhancing my **front-end** and **back-end** development skills.  
 - Exploring software engineering fundamentals, clean code principles, and best practices.  
 - Goal: To become a proficient full-stack developer capable of delivering impactful and reliable solutions.
 
-</div>
 
 
 
