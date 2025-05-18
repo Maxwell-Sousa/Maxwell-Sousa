@@ -87,13 +87,6 @@ Outside of development, I’m passionate about art and creativity:
 * 🎶 Exploring music as inspiration
 * 🎨 Bringing aesthetics into my digital projects
 
-## 📬 Get in Touch
-
-If you want to collaborate, share ideas, or just connect, feel free to reach out:
-
-* 📧 **Email:** [sousamaciel@aluno.ifce.edu.br](mailto:sousamaciel@aluno.ifce.edu.br)
-* 📷 **Instagram:** [@maxsksr](https://www.instagram.com/maxsksr)
-
 ---
 
 <p align="center">
