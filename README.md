@@ -1,22 +1,21 @@
-
 <p align="center">
   <a href="./README-pt.md" title="Português">
-    <img src="https://flagcdn.com/w40/br.png" width="30" alt="Português"/>
+    <img src="https://flagcdn.com/w40/br.png" width="32" alt="Português" style="vertical-align:middle"/>
   </a>
   <a href="./README-es.md" title="Español">
-    <img src="https://flagcdn.com/w40/es.png" width="30" alt="Español"/>
+    <img src="https://flagcdn.com/w40/es.png" width="32" alt="Español" style="vertical-align:middle"/>
   </a>
   <a href="./README-fr.md" title="Français">
-    <img src="https://flagcdn.com/w40/fr.png" width="30" alt="Français"/>
+    <img src="https://flagcdn.com/w40/fr.png" width="32" alt="Français" style="vertical-align:middle"/>
   </a>
   <a href="./README-zh.md" title="中文">
-    <img src="https://flagcdn.com/w40/cn.png" width="30" alt="中文"/>
+    <img src="https://flagcdn.com/w40/cn.png" width="32" alt="中文" style="vertical-align:middle"/>
   </a>
   <a href="./README-de.md" title="Deutsch">
-    <img src="https://flagcdn.com/w40/de.png" width="30" alt="Deutsch"/>
+    <img src="https://flagcdn.com/w40/de.png" width="32" alt="Deutsch" style="vertical-align:middle"/>
   </a>
   <a href="./README-it.md" title="Italiano">
-    <img src="https://flagcdn.com/w40/it.png" width="30" alt="Italiano"/>
+    <img src="https://flagcdn.com/w40/it.png" width="32" alt="Italiano" style="vertical-align:middle"/>
   </a>
 </p>
 
