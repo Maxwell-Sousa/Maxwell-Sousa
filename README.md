@@ -44,6 +44,46 @@ My journey in technology is guided by curiosity, creativity, and a commitment to
 - Exploring software engineering fundamentals, clean code principles, and best practices.  
 - Goal: To become a proficient full-stack developer capable of delivering impactful and reliable solutions.
 
+<div align="center">
+
+## Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" title="VSCode"/>
+</p>
+
+---
+
+## Currently Learning
+
+```
+
+Java — Object-Oriented Programming, Desktop Development
+Python — Scripting, Data Processing
+HTML & CSS — Semantic Web, Layout Design
+Git & GitHub — Version Control and Collaboration
+
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" height="170" alt="GitHub Top Languages"/>
+</p>
+
+## Additional Interests
+
+Beyond development, I have a strong interest in art and creativity, including:
+
+- Drawing and visual design  
+- Exploring music as inspiration  
+- Incorporating aesthetics into digital projects  
+
+</div>
 
 
 
