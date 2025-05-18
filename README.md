@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="mailto:sousamaciel@aluno.ifce.edu.br">
-    <img src="https://img.shields.io/badge/E--mail?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://instagram.com/maxsksr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@maxsksr-505050?style=flat&logo=instagram&logoColor=white" alt="Instagram">
