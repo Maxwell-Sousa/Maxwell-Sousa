@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/Location-Maranguape, CE-blue?style=flat-square&logo=google-maps">
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I'm a passionate technology enthusiast currently pursuing a degree in **Information Technology** at the **Instituto Federal do Ceará (IFCE)** — Maranguape campus.  
