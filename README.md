@@ -28,15 +28,15 @@
 
 <p align="center">
   <a href="mailto:sousamaciel@aluno.ifce.edu.br" title="Email">
-    <img src="https://img.shields.io/badge/Email-mail-darkred?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-mail?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/maxsksr" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-505050?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.google.com/maps/place/Maranguape,+CE" target="_blank" title="Localização">
-    <img src="https://img.shields.io/badge/Localização-0A66C2?style=flat&logo=google-maps&logoColor=white" alt="Localização">
+    <img src="https://img.shields.io/badge/Localização?style=flat&logo=google-maps&logoColor=white" alt="Localização">
   </a>
 </p>
 
