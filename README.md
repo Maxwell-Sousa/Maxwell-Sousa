@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="./README-pt.md" title="Português">
     <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Português" style="vertical-align:middle" />
@@ -59,35 +58,37 @@ Minha jornada na tecnologia é guiada por curiosidade, criatividade e compromiss
   </p>
 </details>
 
-<details>
-  <summary><strong>📚 Atualmente Aprendendo</strong></summary>
+---
 
-  ```plaintext
-  Java — Programação Orientada a Objetos, Desenvolvimento Desktop
-  Python — Scripting, Processamento de Dados
-  HTML & CSS — Web Semântica, Design de Layout
-  Git & GitHub — Controle de Versão e Colaboração
-````
+## 📚 Atualmente Aprendendo
 
-</details>
+<div style="margin-left: 1em; max-width: 600px;">
 
-<details>
-  <summary><strong>📊 Estatísticas GitHub</strong></summary>
+- **Java** — Programação Orientada a Objetos, Desenvolvimento Desktop  
+- **Python** — Scripting, Processamento de Dados  
+- **HTML & CSS** — Web Semântica, Design de Layout  
+- **Git & GitHub** — Controle de Versão e Colaboração  
 
-  <p align="center" style="margin-top:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="170" />
-  </p>
-</details>
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center" style="margin-top:10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" alt="GitHub Top Languages" height="170" />
+</p>
+
+---
 
 <details>
   <summary><strong>🎨 Interesses Adicionais</strong></summary>
 
-Além do desenvolvimento, tenho um forte interesse em arte e criatividade, incluindo:
+  Além do desenvolvimento, tenho um forte interesse em arte e criatividade, incluindo:
 
-* Desenho e design visual
-* Explorar música como fonte de inspiração
-* Incorporar estética em projetos digitais
+  - Desenho e design visual  
+  - Explorar música como fonte de inspiração  
+  - Incorporar estética em projetos digitais
 
 </details>
-
