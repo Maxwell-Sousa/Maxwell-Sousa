@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="./README-pt.md" title="Português">🇧🇷</a>
+  <a href="./README-es.md" title="Español">🇪🇸</a>
+  <a href="./README-fr.md" title="Français">🇫🇷</a>
+  <a href="./README-zh.md" title="中文">🇨🇳</a>
+  <a href="./README-de.md" title="Deutsch">🇩🇪</a>
+  <a href="./README-it.md" title="Italiano">🇮🇹</a>
+</p>
+---
 
 <h1 align="center">Hi there! I'm Maxwell Maciel 👋</h1>
 <p align="center">
@@ -23,7 +32,6 @@ My journey in tech is driven by curiosity, creativity, and a desire to build mea
 - 🔍 Exploring software engineering fundamentals, clean code, and best practices.
 - 🎯 Goal: Become a proficient full-stack developer capable of delivering high-impact solutions.
 
----
 
 ## 🧠 Tech Stack & Tools
 
@@ -65,21 +73,6 @@ Outside of development, I’m passionate about art and creativity:
 * ✏️ Drawing & visual design
 * 🎶 Exploring music as inspiration
 * 🎨 Bringing aesthetics into my digital projects
-
----
-
-## 🌐 Multi-language Support
-
-This README is available in other languages:
-
-* [🇧🇷 Português](./README-pt.md)
-* [🇪🇸 Español](./README-es.md)
-* [🇫🇷 Français](./README-fr.md)
-* [🇨🇳 中文](./README-zh.md)
-* [🇩🇪 Deutsch](./README-de.md)
-* [🇮🇹 Italiano](./README-it.md)
-
----
 
 ## 📬 Get in Touch
 
