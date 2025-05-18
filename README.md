@@ -19,6 +19,15 @@
   </a>
 </p>
 
+<details>
+  <summary>
+    <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python" />
+  </summary>
+
+  - **Domínio:** Scripting, automação, manipulação de arquivos e dados.  
+  - **Estudando:** Processamento de dados, bibliotecas para ciência de dados (pandas, matplotlib), web scraping.
+</details>
+
 <h1 align="center">Maxwell Maciel</h1>
 
 <p align="center">
