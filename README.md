@@ -59,14 +59,40 @@ Minha jornada na tecnologia é guiada por curiosidade, criatividade e compromiss
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" title="VSCode" />
 </p>
 
----
+<details>
+  <summary><strong>Java</strong></summary>
 
-## 📚 Atualmente Aprendendo
+  - **Domínio:** Programação Orientada a Objetos, lógica de programação, desenvolvimento desktop.  
+  - **Estudando:** Padrões de projeto, frameworks, integração com banco de dados, JavaFX para interfaces gráficas.
+</details>
 
-- **Java** — Programação Orientada a Objetos, Desenvolvimento Desktop  
-- **Python** — Scripting, Processamento de Dados  
-- **HTML & CSS** — Web Semântica, Design de Layout  
-- **Git & GitHub** — Controle de Versão e Colaboração  
+<details>
+  <summary><strong>Python</strong></summary>
+
+  - **Domínio:** Scripting, automação, manipulação de arquivos e dados.  
+  - **Estudando:** Processamento de dados, bibliotecas para ciência de dados (pandas, matplotlib), web scraping.
+</details>
+
+<details>
+  <summary><strong>HTML & CSS</strong></summary>
+
+  - **Domínio:** Estrutura semântica de páginas web, estilização básica com CSS.  
+  - **Estudando:** Layouts responsivos, Flexbox, Grid, animações CSS, acessibilidade web.
+</details>
+
+<details>
+  <summary><strong>Git & GitHub</strong></summary>
+
+  - **Domínio:** Controle de versão, comandos básicos, gerenciamento de repositórios.  
+  - **Estudando:** Branching strategies, pull requests, workflows de colaboração e integração contínua.
+</details>
+
+<details>
+  <summary><strong>VSCode</strong></summary>
+
+  - **Domínio:** Ambiente de desenvolvimento integrado para múltiplas linguagens.  
+  - **Estudando:** Customizações avançadas, extensões para produtividade, debugging e integração com Git.
+</details>  
 
 ---
 
