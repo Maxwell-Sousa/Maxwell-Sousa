@@ -1,10 +1,23 @@
+
 <p align="center">
-  <a href="./README-pt.md" title="Português">🇧🇷</a>
-  <a href="./README-es.md" title="Español">🇪🇸</a>
-  <a href="./README-fr.md" title="Français">🇫🇷</a>
-  <a href="./README-zh.md" title="中文">🇨🇳</a>
-  <a href="./README-de.md" title="Deutsch">🇩🇪</a>
-  <a href="./README-it.md" title="Italiano">🇮🇹</a>
+  <a href="./README-pt.md" title="Português">
+    <img src="https://flagcdn.com/w40/br.png" width="30" alt="Português"/>
+  </a>
+  <a href="./README-es.md" title="Español">
+    <img src="https://flagcdn.com/w40/es.png" width="30" alt="Español"/>
+  </a>
+  <a href="./README-fr.md" title="Français">
+    <img src="https://flagcdn.com/w40/fr.png" width="30" alt="Français"/>
+  </a>
+  <a href="./README-zh.md" title="中文">
+    <img src="https://flagcdn.com/w40/cn.png" width="30" alt="中文"/>
+  </a>
+  <a href="./README-de.md" title="Deutsch">
+    <img src="https://flagcdn.com/w40/de.png" width="30" alt="Deutsch"/>
+  </a>
+  <a href="./README-it.md" title="Italiano">
+    <img src="https://flagcdn.com/w40/it.png" width="30" alt="Italiano"/>
+  </a>
 </p>
 
 ---
