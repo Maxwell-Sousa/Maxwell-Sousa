@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="./README-pt.md" title="Português">🇧🇷</a>
-  <a href="./README-es.md" title="Español">🇪🇸</a>
-  <a href="./README-fr.md" title="Français">🇫🇷</a>
-  <a href="./README-zh.md" title="中文">🇨🇳</a>
-  <a href="./README-de.md" title="Deutsch">🇩🇪</a>
-  <a href="./README-it.md" title="Italiano">🇮🇹</a>
+  [🇧🇷](./README-pt.md)
+  [🇪🇸](./README-es.md)
+  [🇫🇷](./README-fr.md)
+  [🇨🇳](./README-zh.md)
+  [🇩🇪](./README-de.md)
+  [🇮🇹](./README-it.md)
 </p>
 
 ---
