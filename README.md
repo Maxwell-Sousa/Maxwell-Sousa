@@ -29,6 +29,7 @@
   <a href="mailto:sousamaciel@aluno.ifce.edu.br" title="Enviar email" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-505050?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/maxsksr" target="_blank" title="Instagram" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Instagram-505050?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -45,31 +46,27 @@ Minha jornada na tecnologia é guiada por curiosidade, criatividade e compromiss
 - Explorando fundamentos de engenharia de software, princípios de código limpo e boas práticas  
 - Objetivo: tornar-me um desenvolvedor full-stack proficiente, capaz de entregar soluções impactantes e confiáveis
 
-<details>
-  <summary><strong>👨‍💻 Tech Stack & Ferramentas</strong></summary>
+---
 
-  <p align="center" style="margin-top:10px;">
-    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java" />
-    <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python" />
-    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML" />
-    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS" />
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub" />
-    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" title="VSCode" />
-  </p>
-</details>
+## 👨‍💻 Tech Stack & Ferramentas
+
+<p align="center" style="margin-top:10px;">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" title="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS" />
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" title="VSCode" />
+</p>
 
 ---
 
 ## 📚 Atualmente Aprendendo
 
-<div style="margin-left: 1em; max-width: 600px;">
-
 - **Java** — Programação Orientada a Objetos, Desenvolvimento Desktop  
 - **Python** — Scripting, Processamento de Dados  
 - **HTML & CSS** — Web Semântica, Design de Layout  
 - **Git & GitHub** — Controle de Versão e Colaboração  
-
-</div>
 
 ---
 
@@ -82,13 +79,10 @@ Minha jornada na tecnologia é guiada por curiosidade, criatividade e compromiss
 
 ---
 
-<details>
-  <summary><strong>🎨 Interesses Adicionais</strong></summary>
+## 🎨 Interesses Adicionais
 
-  Além do desenvolvimento, tenho um forte interesse em arte e criatividade, incluindo:
+Além do desenvolvimento, tenho um forte interesse em arte e criatividade, incluindo:
 
-  - Desenho e design visual  
-  - Explorar música como fonte de inspiração  
-  - Incorporar estética em projetos digitais
-
-</details>
+- Desenho e design visual  
+- Explorar música como fonte de inspiração  
+- Incorporar estética em projetos digitais
