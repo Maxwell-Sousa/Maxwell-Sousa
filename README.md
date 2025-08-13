@@ -20,6 +20,12 @@
   <img src="https://komarev.com/ghpvc/?username=MaxwellMaciel&color=blue" alt="Profile views"/>
 </div>
 
+## 📊 Estatísticas Rápidas
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_title=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut&theme=tokyonight)
+
+
 ---
 
 ## 🚀 Sobre Mim
