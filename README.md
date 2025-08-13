@@ -40,18 +40,22 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
 
 ## 📊 Estatísticas do GitHub
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=MaxwellMaciel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" height="150" alt="GitHub Streak"/>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="150" alt="GitHub Stats"/>
+
+  <!-- Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut-vertical&theme=tokyonight&hide_border=true&card_width=300" height="150" alt="Top Languages"/>
+
+</div>
+
+<!-- Gráfico de atividade -->
 <div align="center">
-  
-  <!-- Linha de Contribuições -->
-  <img src="https://streak-stats.demolab.com?user=MaxwellMaciel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160" />
-
-  <!-- Stats + Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut&theme=tokyonight&hide_border=true" height="160"/>
-
-  <!-- Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
