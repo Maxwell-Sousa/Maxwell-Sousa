@@ -36,6 +36,10 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
 </p>
 
+<!-- Most Used Languages — grande barra -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" height="150" alt="Top Languages"/>
+  
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -48,9 +52,6 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="150" alt="GitHub Stats"/>
 
-  <!-- Most Used Languages — grande barra -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" height="150" alt="Top Languages"/>
-  
 </div>
 
 <!-- Gráfico de atividade -->
