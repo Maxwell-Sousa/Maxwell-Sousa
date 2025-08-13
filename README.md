@@ -39,8 +39,6 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" height="150" alt="Top Languages"/>
 </div>
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
