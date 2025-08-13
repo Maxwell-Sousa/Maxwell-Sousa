@@ -48,32 +48,14 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="150" alt="GitHub Stats"/>
 
+  <!-- Most Used Languages — grande barra -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" height="150" alt="Top Languages"/>
+  
 </div>
-
-<!-- Most Used Languages — grande -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&card_width=560"
-    width="560"
-    alt="Top Languages"
-  />
-</p>
 
 <!-- Gráfico de atividade -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
-
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-  ✨ Aberto a novas ideias e colaborações ✨
 </div>
