@@ -69,12 +69,16 @@ Sou estudante dedicado de **Tecnologia da Informação** no **Instituto Federal 
   - Pull requests, Branching strategies  
 </details>
 
-## 📊 Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight" height="170"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MaxwellMaciel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
