@@ -48,7 +48,9 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="150" alt="GitHub Stats"/>
 
-  <!-- Most Used Languages — grande -->
+</div>
+
+<!-- Most Used Languages — grande -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&card_width=560"
@@ -57,10 +59,15 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   />
 </p>
 
+<!-- Gráfico de atividade -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="GitHub Activity Graph"/>
+</div>
+
+
 
 </div>
 
-<!-- Gráfico de atividade -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
