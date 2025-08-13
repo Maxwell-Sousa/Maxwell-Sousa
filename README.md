@@ -69,16 +69,6 @@ Sou estudante dedicado de **Tecnologia da Informação** no **Instituto Federal 
   - Pull requests, Branching strategies  
 </details>
 
----
-
-## 📌 Projetos em Destaque
-
-- 🔗 [**Sistema de Controle de Estoque**](#) — Aplicação Java com interface gráfica e banco de dados  
-- 🔗 [**Site Pessoal**](#) — Portfólio moderno em HTML, CSS e JS  
-- 🔗 [**Script de Automação**](#) — Automação de tarefas repetitivas usando Python
-
----
-
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
