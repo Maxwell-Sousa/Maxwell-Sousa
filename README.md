@@ -48,8 +48,15 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" height="150" alt="GitHub Stats"/>
 
-  <!-- Linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut-vertical&theme=tokyonight&hide_border=true&card_width=300" height="150" alt="Top Languages"/>
+  <!-- Most Used Languages — grande -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&card_width=560"
+    width="560"
+    alt="Top Languages"
+  />
+</p>
+
 
 </div>
 
