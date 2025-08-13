@@ -24,8 +24,6 @@
 Sou estudante de **Tecnologia da Informação** no **Instituto Federal do Ceará (IFCE)** — campus Maranguape, focado em **desenvolvimento de software** e **soluções digitais criativas**.  
 Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar projetos impactantes.
 
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java"/>
