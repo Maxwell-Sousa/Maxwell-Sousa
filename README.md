@@ -36,9 +36,10 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
 </p>
 
+<div align="center">
 <!-- Most Used Languages — grande barra -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" height="150" alt="Top Languages"/>
-  
+</div>
 
 ---
 
