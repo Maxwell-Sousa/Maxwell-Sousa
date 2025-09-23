@@ -11,8 +11,8 @@
 <p align="center">Estudante de TI | Futuro Full-Stack | Entusiasta de Inovação</p>
 
 <div align="center">
-  <a href="mailto:sousamaciel@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/maxsksr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:maxwellmacielsousa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/welsksr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/MaxwellMaciel"><img src="https://img.shields.io/github/followers/MaxwellMaciel?label=Seguidores&style=for-the-badge&color=green" /></a>
   <img src="https://komarev.com/ghpvc/?username=MaxwellMaciel&style=for-the-badge&color=blue" alt="Profile views"/>
