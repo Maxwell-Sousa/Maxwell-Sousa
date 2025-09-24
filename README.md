@@ -21,8 +21,7 @@
 ---
 
 ## 🚀 Sobre Mim
-Sou estudante de **Tecnologia da Informação** no **Instituto Federal do Ceará (IFCE)** — campus Maranguape, focado em **desenvolvimento de software** e **soluções digitais criativas**.  
-Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar projetos impactantes.
+Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — campus Maranguape, focado em **desenvolvimento de software**.  
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -32,6 +31,10 @@ Curioso por natureza, busco sempre aprender e aplicar boas práticas para criar 
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
 </p>
 
 <div align="center">
