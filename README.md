@@ -26,12 +26,8 @@
   <img src="https://komarev.com/ghpvc/?username=MaxwellMaciel&style=for-the-badge&color=blue" alt="Profile views"/>
 </div>
 
----
-
 ## 🚀 Sobre Mim
 Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — campus Maranguape, focado em **desenvolvimento de software**.  
-
----
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -56,34 +52,3 @@ Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — 
   />
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
-  <!-- Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=MaxwellMaciel&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400" 
-    height="150" 
-    alt="GitHub Streak"
-  />
-
-  <!-- Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MaxwellMaciel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&card_width=400" 
-    height="150" 
-    alt="GitHub Stats"
-  />
-
-</div>
-
----
-
-<!-- Gráfico de atividade -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MaxwellMaciel&theme=tokyo-night&hide_border=true&radius=8&area=true" 
-    width="100%" 
-    alt="GitHub Activity Graph"
-  />
-</div>
