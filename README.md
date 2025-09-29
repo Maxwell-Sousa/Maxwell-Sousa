@@ -22,26 +22,28 @@ Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — 
 
 ## 🛠 Tech Stack
 
-### 🌐 Front-End
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
-</p>
-
-### ⚙️ Back-End
-<p align="center">
+  <!-- Linguagens -->
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-</p>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
 
-### 🛠 Ferramentas & Versionamento
-<p align="center">
+  <!-- Web -->
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
+
+  <!-- Ferramentas -->
   <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
 </p>
 
+<p align="center">
+  🎯 Atualmente focado em <strong>Angular + TypeScript</strong>,  
+  mas também desenvolvo com <strong>Java</strong> e <strong>Python</strong>.  
+  Tenho boa base em <strong>HTML, CSS e Bootstrap</strong> para criação de interfaces,  
+  além de versionamento com <strong>Git/GitHub</strong> e uso do <strong>VSCode</strong> no dia a dia.
+</p>
 
