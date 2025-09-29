@@ -43,12 +43,5 @@ Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — 
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
 </p>
 
-<div align="center">
-  <!-- Most Used Languages — grande barra -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellMaciel&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=840" 
-    height="150" 
-    alt="Top Languages"
-  />
-</div>
+
 
