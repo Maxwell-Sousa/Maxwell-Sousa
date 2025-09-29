@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="./README-pt.md"><img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Português" /></a>
-  <a href="./README-es.md"><img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt="Español" /></a>
-  <a href="./README-fr.md"><img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt="Français" /></a>
-  <a href="./README-zh.md"><img src="https://flagcdn.com/20x15/cn.png" width="20" height="15" alt="中文" /></a>
-  <a href="./README-de.md"><img src="https://flagcdn.com/20x15/de.png" width="20" height="15" alt="Deutsch" /></a>
-  <a href="./README-it.md"><img src="https://flagcdn.com/20x15/it.png" width="20" height="15" alt="Italiano" /></a>
-</p>
-
 <h1 align="center">👋 Olá, eu sou o Maxwell Maciel</h1>
 <p align="center">Estudante de TI | Futuro Full-Stack | Entusiasta de Inovação</p>
 
@@ -30,18 +21,27 @@
 Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — campus Maranguape, focado em **desenvolvimento de software**.  
 
 ## 🛠 Tech Stack
+
+### 🌐 Front-End
 <p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript"/>
   <img src="https://img.icons8.com/color/48/angularjs.png" title="Angular"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
 </p>
 
+### ⚙️ Back-End
+<p align="center">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+</p>
+
+### 🛠 Ferramentas & Versionamento
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
+</p>
 
 
