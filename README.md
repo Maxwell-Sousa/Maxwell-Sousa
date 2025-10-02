@@ -40,10 +40,4 @@ Sou estudante de **Informática** no **Instituto Federal do Ceará (IFCE)** — 
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VSCode"/>
 </p>
 
-<p align="center">
-  🎯 Atualmente focado em <strong>Angular + TypeScript</strong>,  
-  mas também desenvolvo com <strong>Java</strong> e <strong>Python</strong>.  
-  Tenho boa base em <strong>HTML, CSS e Bootstrap</strong> para criação de interfaces,  
-  além de versionamento com <strong>Git/GitHub</strong> e uso do <strong>VSCode</strong> no dia a dia.
-</p>
 
